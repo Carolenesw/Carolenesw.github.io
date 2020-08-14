@@ -14,9 +14,6 @@ Create a Profile/About Me responsive design web application that showcase my app
 - Google Fonts  
 - Template io
 
-## User Story 
-
-
 ## Userbility
 
 - This website should render on extra small screens to large screen sizes, with responisve layout
