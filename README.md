@@ -37,7 +37,7 @@ Create a Profile/About Me responsive design web application that showcase my app
 
 ## link
 
-https://github.com/Carolenesw/Carolenesw.github.io
+https://carolenesw.github.io/
 
 ## Image
 
